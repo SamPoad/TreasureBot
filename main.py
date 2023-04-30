@@ -1,6 +1,9 @@
 # This will serve as the main script 
 
 # IMPORT DEPENDENCIES 
+from treasure-items import treasure_properties
+from gem-items import gem_properties, gem_combinations 
+
 
 # READ IN THE TREASURE AND GEM VALUE INFORMATION 
 # TREASURE ITEMS AND THEIR VALUE 
