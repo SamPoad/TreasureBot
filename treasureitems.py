@@ -2,9 +2,9 @@
 
 treasure_properties = { # 'name' : (oval slots, rectangle slots, base value)
     'Elegant Crown' : (
-        2, # oval  
-        3, # rectangle 
-        19000 # value 
+        2, # oval_slots  
+        3, # rectangle_slots
+        19000 # base_value
     ), 
     'Flagon' : (2, 0, 4000),
     'Elegant Mask' : (3, 0, 5000), 

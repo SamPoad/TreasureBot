@@ -1,9 +1,9 @@
 # this page documents gems and their properties, to be imported into main.py 
 
-gem_properties = { # 'name' : ('color', 'shape', value), 
+gem_properties = { # 'name' : ('Color', 'Shape', Value), 
     'Ruby' : ('Red', 'Oval', 3000), 
     'Sapphire' : ('Blue', 'Oval', 4000), 
-    'Yellow Diamond' : ('Yellow', 'Oval', 7000), # check these value amounts 
+    'Yellow Diamond' : ('Yellow', 'Oval', 7000), 
     'Emerald' : ('Green', 'Rectangle', 5000), 
     'Red Beryl' : ('Red', 'Rectangle', 9000), 
     'Alexandrite' : ('Violet', 'Rectangle', 6000),
